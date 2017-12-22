@@ -1,0 +1,2 @@
+# SIC-Disassembler-master
+SIC or Simplified Instructional Computer is a hypothetical machine introduced by Leland L. Beck and D. Manjula for their book on System Software. This has an advantage of simple architecture and instruction set making it possible for students to understand the details of construction of system software.  The objective of this project is to create a C++ program to disassemble a given SIC object file and create the corresponding Assembly File.
